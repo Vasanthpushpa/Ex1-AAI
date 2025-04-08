@@ -1,5 +1,5 @@
 <H3> Name:Vasanth P</H3>
-<H3>Register No:2122222401134.</H3>
+<H3>Register No:212222240113.</H3>
 <H3> Experiment 1</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 ## Aim :
